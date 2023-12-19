@@ -1,6 +1,6 @@
-pip
+pip==23.3.2
 
-flask
+flask==3.0.0
 waitress
 
 requests
