@@ -1,9 +1,9 @@
 pip==23.3.2
 
 flask==3.0.0
-waitress
+waitress==2.1.2
 
-requests
-diff-match-patch
+requests==2.31.0
+diff-match-patch==20230430
 
-pymysql
+pymysql==1.1.0
